@@ -1,0 +1,7 @@
+{
+	"spring.datasource.driverClassName":	"com.mysql.jdbc.Driver",
+	"spring.datasource.host":	"192.168.15.95:3306",
+	"spring.datasource.username":	"root",
+	"spring.datasource.password":	"toor",
+	"spring.datasource.url":	"jdbc:mysql://192.168.15.95:3306/WEB-CORE?useUnicode=true&characterEncoding=utf-8&autoReconnect=true&useSSL=false"
+}
